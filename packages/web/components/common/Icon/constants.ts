@@ -222,6 +222,8 @@ export const iconPaths = {
     import('./icons/core/workflow/template/extractJson.svg'),
   'core/workflow/template/fetchUrl': () => import('./icons/core/workflow/template/fetchUrl.svg'),
   'core/workflow/template/getTime': () => import('./icons/core/workflow/template/getTime.svg'),
+  'core/workflow/template/toEmail': () => import('./icons/core/workflow/template/toEmail.svg'),
+  'core/workflow/template/sendSMS': () => import('./icons/core/workflow/template/sendSMS.svg'),
   'core/workflow/template/httpRequest': () =>
     import('./icons/core/workflow/template/httpRequest.svg'),
   'core/workflow/template/ifelse': () => import('./icons/core/workflow/template/ifelse.svg'),
