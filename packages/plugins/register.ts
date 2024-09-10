@@ -14,7 +14,8 @@ const staticPluginList = [
   `Doc2X/FilePDF2text`,
   `Doc2X/FileImg2text`,
   'feishu',
-  'toEmail'
+  'toEmail',
+  'sendSMS'
 ];
 // Run in worker thread (Have npm packages)
 const packagePluginList = [
